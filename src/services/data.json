@@ -1,0 +1,26 @@
+[
+  {
+    "id": "project-1",
+    "name": "Reka Website",
+    "description": "Reka Website merupakan website yang dibuat untuk Reka Entertainment. Reka Entertainment adalah Label yang menaungi berbagai macam kegiatan produktif dan project berupa hiburan. Fokus kami saat ini adalah di Project MegaReka Studio dalam pengembangan Game yang akan kita daftarkan di IGSI 2022.",
+    "image": "../assets/reka.png"
+  },
+  {
+    "id": "project-2",
+    "name": "Agera Digital Website",
+    "description": "Agera Digital Website merupakan website yang dibuat untuk Agera Digital.",
+    "image": "../assets/agera.png"
+  },
+  {
+    "id": "project-3",
+    "name": "Himawari Website",
+    "description": "Himawari Website merupakan website yang dibuat untuk Himawari.",
+    "image": "../assets/himawari.png"
+  },
+  {
+    "id": "project-4",
+    "name": "Dokteron App",
+    "description": "Dokteron merupakan aplikasi untuk menghimpun dokter-dokter di seluruh Indonesia",
+    "image": "../assets/dokteron.png"
+  }
+]
